@@ -1,0 +1,22 @@
+INIT 12:00:00 10000
+ADD Stayin' Alive, The Bee Gees, 3:29
+ADD In Your Eyes, Peter Gabriel, 5:27
+ADD Hey Ladies, Beastie Boys, 3:48
+ADD Perfect Circle, R.E.M., 3:35
+ADD We’re Going to be Friends, The White Stripes, 2:27
+PLAY 1
+LIKE
+PLAY 1
+LIKE
+LIKE Stayin' Alive
+PLAY 6
+LIKE Perfect Circle
+PLAY 3
+DISLIKE
+DISLIKE
+PLAY 2
+DISLIKE
+REST 1:00:05
+ADD This Must be the Place, Talking Heads, 4:56
+ADD Human Nature, Michael Jackson, 4:17
+PLAY 10
